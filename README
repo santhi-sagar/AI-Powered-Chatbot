@@ -1,0 +1,5 @@
+The AI-Powered Chatbot is an intelligent conversational assistant built using Natural Language Processing (NLP).
+It can understand user input, answer frequently asked questions, and provide contextual replies — suitable for customer support, FAQs, or general information systems.
+
+The chatbot uses Python (NLTK / Transformers) for language understanding and Flask / FastAPI for web interaction.
+All chat logs and user interactions are stored in a database for future analytics.
